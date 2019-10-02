@@ -1,0 +1,24 @@
+nav {
+    background-color: black;
+    position: fixed;
+    top: 0px;
+    left: 0px;
+    right: 0px;
+    z-index: 3;
+}
+nav ul {
+    display: flex;
+    margin: 0px;
+    padding: 0px;
+}
+nav a {
+    color: white;
+    display: block;
+    padding: 15px;
+}
+.current-page {
+    background-color: lightgreen;
+}
+nav a:hover {
+    background-color: green;
+}

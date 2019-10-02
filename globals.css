@@ -1,0 +1,19 @@
+body {
+    margin: 0px;
+}
+li{
+    list-style-type: none;
+}
+a{
+    text-decoration: none;
+}
+*{
+    box-sizing: border-box;
+    font-family: 'Roboto', 'ariel', sans-serif;
+}
+main {
+    margin-top: 60px;
+}
+ul {
+    padding: 0px;
+}
