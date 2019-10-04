@@ -17,3 +17,10 @@ img {
     width: 300px;
     border-radius: 50%;
 }
+#ruby-image{
+    border-radius: 20%;
+    border: 5px solid aqua;
+}
+img li{
+    border: solid aqua10px;
+}
